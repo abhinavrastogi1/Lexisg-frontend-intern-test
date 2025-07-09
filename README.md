@@ -15,7 +15,7 @@ git clone https://github.com/abhinavrastogi1/Lexisg-frontend-intern-test.git
 cd Lexisg-frontend-intern-test
 npm install
 npm run dev
-
+```
 ## 🧪 Simulated API Behavior
 
 This app simulates a backend API response. Regardless of the query entered, the same answer and citation are returned for demonstration purposes.
@@ -37,3 +37,4 @@ const simulatedResponse = {
     },
   ],
 };
+```
